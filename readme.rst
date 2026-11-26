@@ -1,8 +1,8 @@
-Git Assignment
+Git の課題
 ==============
 
-I prefer to keep my real name off public repos, so I put a SHA-256 hash
-here. You can generate it with ``make_hash.py``. My report has both my
-name and the hash. I hope that's okay for this assignment.
+公開リポジトリに本名を載せるのは気が進まないので、代わりに SHA-256 のハッシュ値を載せました。
+ハッシュ値は ``make_hash.py`` で生成できます。提出レポートには本名とハッシュ値の両方を書きました。
+この形で提出できればと思います。
 
-**SHA-256 hash**: 77a5290ba508c460c2aba3c55ef50c8e1c82bcbcfdbc96d2207afe07230b651c
+**SHA-256 ハッシュ値**: 77a5290ba508c460c2aba3c55ef50c8e1c82bcbcfdbc96d2207afe07230b651c
